@@ -3,5 +3,3 @@ This is my first Github file for the Classic Machine Learning course.
 Hello from Albert Forest
 
 Hello from Alexis Sculark
-
-Hello from David Fasipe
