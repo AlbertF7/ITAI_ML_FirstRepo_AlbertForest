@@ -1,4 +1,4 @@
-# ITAI_ML_FirstRepo_AlbertForest
+# ITAI_ML_FirstRepo_AlbertF7
 
 This project hosts the Intro to Machine Learning course materials, including assignments, resources and collaborative efforts of {{team_name}}
 
